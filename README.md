@@ -6,3 +6,4 @@ Works
 I did bad styling
 # JS
 There might be some unneeded code
+# Anybody is allowed to use this
